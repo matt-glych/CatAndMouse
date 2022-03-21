@@ -1,0 +1,338 @@
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\MyGame.exe
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\MyGame.pdb
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\SwinGame.dll
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojResolveAssemblyReference.cache
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+H:\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\MyGame.exe
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\MyGame.pdb
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\bin\Debug\SwinGame.dll
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\2.1P\2.1P-resources\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\MyGame.exe
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\MyGame.pdb
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\SwinGame.dll
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\3.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\MyGame.exe
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\MyGame.pdb
+H:\Sem 2\OOP\3.1P\ShapeDrawing\bin\Debug\SwinGame.dll
+H:\Sem 2\OOP\3.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojResolveAssemblyReference.cache
+H:\Sem 2\OOP\3.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+H:\Sem 2\OOP\3.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+H:\Sem 2\OOP\3.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\MyGame.exe
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\MyGame.pdb
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\bin\Debug\SwinGame.dll
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\4.1P\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\MyGame.exe
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\MyGame.pdb
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\bin\Debug\SwinGame.dll
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.2C\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\MyGame.exe
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\MyGame.pdb
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\bin\Debug\SwinGame.dll
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\twych\Documents\Swinburne\Sem 2\OOP\5.3D\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\animations\startup.txt
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\bundles\FileDialog.txt
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\bundles\splash.txt
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\fonts\arial.ttf
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\fonts\cour.ttf
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\images\fdFile.png
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\images\fdFolder.png
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\images\FileDialog_Active.png
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\images\FileDialog_Background.png
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\images\FileDialog_Inactive.png
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\images\FileDialog_Scroll.png
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\images\Swinburne.jpg
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\images\SwinGameAni.png
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\panels\FileDialog.txt
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\sounds\error.wav
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\sounds\SwinGameStart.wav
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\SwinGame.icns
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\Resources\SwinGame.ico
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\MyGame.exe
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\MyGame.pdb
+X:\Projects\_ProjectTemplate_SwinGameC#\bin\Debug\SwinGame.dll
+X:\Projects\_ProjectTemplate_SwinGameC#\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+X:\Projects\_ProjectTemplate_SwinGameC#\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+X:\Projects\_ProjectTemplate_SwinGameC#\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+X:\Projects\_ProjectTemplate_SwinGameC#\obj\x86\Debug-Windows\MyGame.exe
+X:\Projects\_ProjectTemplate_SwinGameC#\obj\x86\Debug-Windows\MyGame.pdb
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\animations\startup.txt
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\bundles\FileDialog.txt
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\bundles\splash.txt
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\fonts\arial.ttf
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\fonts\cour.ttf
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\fdFile.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\fdFolder.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_Active.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_Background.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_Inactive.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_Scroll.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\Ship01_white.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\Swinburne.jpg
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\SwinGameAni.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\panels\FileDialog.txt
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\sounds\error.wav
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\SwinGame.icns
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\SwinGame.ico
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\MyGame.exe
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\MyGame.pdb
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\SwinGame.dll
+D:\Projects\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+D:\Projects\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+D:\Projects\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+D:\Projects\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGame.exe
+D:\Projects\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGame.pdb
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cat.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cat_eyes.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cheese01.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cheese02.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\mouse.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cat_caught_mouse.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\mouseHole_bottom.png
+D:\Projects\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\mouseHole_top.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\animations\startup.txt
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\bundles\FileDialog.txt
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\bundles\splash.txt
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\fonts\arial.ttf
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\fonts\cour.ttf
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cat.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cat_caught_mouse.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cat_eyes.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cheese01.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cheese02.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\fdFile.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\fdFolder.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_Active.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_Background.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_Inactive.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_Scroll.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\mouse.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\mouseHole_bottom.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\mouseHole_top.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\Ship01_white.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\Swinburne.jpg
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\SwinGameAni.png
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\panels\FileDialog.txt
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\sounds\error.wav
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\SwinGame.icns
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\SwinGame.ico
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\MyGame.exe
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\MyGame.pdb
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\SwinGame.dll
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGame.exe
+D:\Projects\CatAndMouse\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGame.pdb
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\animations\startup.txt
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\bundles\FileDialog.txt
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\bundles\splash.txt
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\fonts\arial.ttf
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\fonts\cour.ttf
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cat.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cat_caught_mouse.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cat_eyes.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cheese01.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\cheese02.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\fdFile.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\fdFolder.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_Active.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_Background.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_Inactive.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_Scroll.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\mouse.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\mouseHole_bottom.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\mouseHole_top.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\Ship01_white.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\Swinburne.jpg
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\images\SwinGameAni.png
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\panels\FileDialog.txt
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\sounds\error.wav
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\SwinGame.icns
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\SwinGame.ico
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\MyGame.exe
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\MyGame.pdb
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\SwinGame.dll
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGame.exe
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGame.pdb
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\sounds\sfx_collectCheese.wav
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\sounds\sfx_deathscream.wav
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\sounds\sfx_deathscream2.wav
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\sounds\sfx_holeTravel.wav
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\bin\Debug\Resources\sounds\sfx_movement.wav
+D:\_Projects\SwinGame\CatAndMouse\CatAndMouse_SwinGameC#\obj\x86\Debug-Windows\MyGameWin.csproj.AssemblyReference.cache
